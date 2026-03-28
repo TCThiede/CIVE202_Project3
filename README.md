@@ -11,11 +11,11 @@ A simulation study using the Intelligent Driver Model (IDM) was performed to vis
 
 A timetable documentation of how long the data analysis takes in Python was also created to compare to similar Excel methods.
 
-# To run the Python program follow the steps below:
-Go to repository files
-Download NGSIM(in).csv, NHTS(in).csv, and Thiede_Project3_Code.ipynb and place in same folder
-Open computer terminal
-Run command: jupyter notebook
-Navigate to folder housing 3 downloaded files and open Thiede_Project3_Code.ipynb
-In top toolbar click run -> run all cells
+# To run the Python program follow the steps below:\
+Go to repository files\
+Download NGSIM(in).csv, NHTS(in).csv, and Thiede_Project3_Code.ipynb and place in same folder\
+Open computer terminal\
+Run command: jupyter notebook\
+Navigate to folder housing 3 downloaded files and open Thiede_Project3_Code.ipynb\
+In top toolbar click run -> run all cells\
 Refer to ACD and Methods section in the report for documentation on code
